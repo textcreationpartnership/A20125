@@ -1,0 +1,279 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The noble tryumphaunt coronacyon of quene Anne wyfe vnto the moost noble kynge Henry the .viij.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1533</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20125</idno>
+            <idno type="STC">STC 656</idno>
+            <idno type="STC">ESTC S108951</idno>
+            <idno type="EEBO-CITATION">99844603</idno>
+            <idno type="PROQUEST">99844603</idno>
+            <idno type="VID">9432</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20125)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9432)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 21:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The noble tryumphaunt coronacyon of quene Anne wyfe vnto the moost noble kynge Henry the .viij.</title>
+               </titleStmt>
+               <extent>[12] p. : 4#20.  </extent>
+               <publicationStmt>
+                  <publisher>In Fletestrete by Wynkyn de Worde, for Iohan Goughe,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>[1533]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁶.</note>
+                  <note>Imprint from colophon; publication date from STC.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anne Boleyn, --  Queen, consort of Henry VIII, King of England, 1507-1536 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:9432:1"/>
+            <pb facs="tcp:9432:1" rendition="simple:additions"/>
+            <p>¶ The noble tryum<g ref="char:EOLhyphen"/>phaunt coronacyon of quene Anne / wyfe vnto the mooſt noble kynge Henry the .viij.</p>
+            <p>
+               <figure/>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:9432:2"/>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt the .xxix. daye of Maye / beynge thurſday / all the worſhypfull craftes and occupacyons in theyr beſt araye goodly beſene toke theyr bargꝭ / which were ſplayed w<hi rend="sup">t</hi> goodly baners freſſhe and newe / with the cognyſaunce and armes of theyr faculty / to the nombre of .l. great bar<g ref="char:EOLhyphen"/>ges comly beſene / &amp; euery barge hauynge mynſtrels makynge greate and ſwete armony. Alſo there was the bachelers barge comly beſene / decked with in<g ref="char:EOLhyphen"/>numerable baners / and all about hanged with ryche cloth of golde / &amp; foyſtes waytynge her vpon / decked with a great ſhotte of ordynaunce / whiche deſcended the ryuer afore all y<hi rend="sup">e</hi> barges / and the bachelers barge formeſt / and ſo folowynge in good araye &amp; ordre / eue<g ref="char:EOLhyphen"/>ry crafte in theyr degree and ordre tyll they came to Greenwyche / and there taryed abydynge the quenes grace / whiche was a wonderfull goodly ſyght to be<g ref="char:EOLhyphen"/>holde. Than at thre of the clocke the quenes grace came to her barge / and incontynent all the cytezyns with that goodly company ſet forth toward London in good araye / as before is ſayd. And to wryte what nombre of gonſhot / what with chambres and great peces of ordynau<g ref="char:cmbAbbrStroke">̄</g>ce were ſhotte as ſhe paſſed by in dy<g ref="char:EOLhyphen"/>uers places / it paſſeth my memory to wryte or to tell the nombre of them / and ſpecially at Ratlyf &amp; at lyme houſe out of certeyne ſhyppes. And ſo y<hi rend="sup">e</hi> quenes grace in her ryche barge amonge her nobles / the cytezyns accompanyed her to London vnto the toure wharfe. Alſo or ſhe came nere the toure there was ſhot innu<g ref="char:EOLhyphen"/>merable peces of ordynaunce / as euer was there by any mennes reme<g ref="char:cmbAbbrStroke">̄</g>brau<g ref="char:cmbAbbrStroke">̄</g>ces / where the kyng receyued
+<pb facs="tcp:9432:2"/>her grace with a noble louyng countenaunce / and to gaue great thankes and prayſe to all the cytezyns for theyr great kyndneſſe &amp; louynge labour and paynes in that behalfe taken / to the greate ioye and comforte of all the cytezyns. Alſo to beholde the wonderfull nombre of people that euer was ſene that ſtode on the ſhore on bothe ſydes of the ryuer / was neuer in one ſyght out of y<hi rend="sup">e</hi> cyte of London ſene / what in good<g ref="char:EOLhyphen"/>ly lodgynges and houſes that be on y<hi rend="sup">e</hi> ryuer ſyde by<g ref="char:EOLhyphen"/>twene Grenwyche and London / it paſſeth al mennes iudgementes to eſteme the infinyte nombre of them / wherin her grace with al her ladyes reioyſed moche.</p>
+            <p>¶ Knyghtes made at Grenwyche the ſonday before whytſonday.</p>
+            <p>¶ And the ſondaye before this tryumphe / beyng the xxv. daye of Maye / the kynge made at his maner of Grenwyche all theſe knyghtes.</p>
+            <list>
+               <item>Syr Chriſtofer Danby</item>
+               <item>Syr Chriſtofer Hylarde</item>
+               <item>Syr Brian Haſtynges</item>
+               <item>Syr Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mas Methem</item>
+               <item>Syr Thomas Butteller</item>
+               <item>Syr Willyam Walgraue</item>
+               <item>Syr Wyllyam Feldeyng.</item>
+            </list>
+            <p>¶ The fryday made knyghtes of the Bathe xix. whoſe names foloweth.</p>
+            <p>¶ Alſo on fryday the .xxx. day of May y<hi rend="sup">e</hi> kynge crea<g ref="char:EOLhyphen"/>ted and made in the towre of London .xix. noble men knyghtes of the bathe / whoſe names folowe.</p>
+            <list>
+               <item>The lorde Marques Dorſet</item>
+               <item>The erle of Derby</item>
+               <item>The lorde Clyfforde / ſone &amp; heyre to therle of Cu<g ref="char:cmbAbbrStroke">̄</g>ber<g ref="char:EOLhyphen"/>lande</item>
+               <item>The lorde Ftizwater / ſone &amp; heyre to therle of Suſſex</item>
+               <pb facs="tcp:9432:3"/>
+               <item>The lorde Haſtynges / ſone &amp; heyre to therle of Hun<g ref="char:EOLhyphen"/>tyngton</item>
+               <item>The lorde Barkeley</item>
+               <item>The lorde Mountagle</item>
+               <item>The lorde Vaux</item>
+               <item>Syr Henry Parker / ſone &amp; heyre to y<hi rend="sup">e</hi> lorde Morley</item>
+               <item>Syr Wyllyam Wyndſour / ſone &amp; heyre to the lorde Wyndeſour.</item>
+               <item>Syr Iohn<g ref="char:cmbAbbrStroke">̄</g> Mordant / ſone &amp; heyre to y<hi rend="sup">e</hi> lorde Morda<g ref="char:cmbAbbrStroke">̄</g>t</item>
+               <item>Syr Fraunces Weſton</item>
+               <item>Syr Thomas Aroundell</item>
+               <item>Syr Iohan Hudelſton</item>
+               <item>Syr Thomas Ponynges</item>
+               <item>Syr Henry Sauell</item>
+               <item>Syr George Fitzwyllyam of Lyncolne ſhyre</item>
+               <item>Syr Iohan Tyndall</item>
+               <item>Syr Thomas Iermey.</item>
+            </list>
+            <p>¶ Alſo the ſaturday the laſte day of May the kynge made knyghtes of the ſwerde in y<hi rend="sup">e</hi> towre of London / whoſe names folowe.</p>
+            <list>
+               <item>Syr Wyllyam Drury</item>
+               <item>Syr Iohn<g ref="char:cmbAbbrStroke">̄</g> Gernynghin<g ref="char:cmbAbbrStroke">̄</g>
+               </item>
+               <item>Syr Thomas Buſche</item>
+               <item>Syr Randolfe Buerton</item>
+               <item>Syr George Caluerley</item>
+               <item>Syr Edwarde Fytton</item>
+               <item>Syr George Conyers</item>
+               <item>Syr Roberte Nedham</item>
+               <item>Syr Iohan Chaworth</item>
+               <item>Syr George Greſley</item>
+               <item>Syr Iohan Conſtable</item>
+               <item>Syr Thomas Vmpton</item>
+               <item>Syr Iohan Horſley</item>
+               <item>Syr Rycharde Lygon</item>
+               <item>Syr Iohan Saintclere</item>
+               <item>Syr Edwarde Maidiſon</item>
+               <item>Syr Henry Feryngton</item>
+               <item>Syr Marmaduc Cu<g ref="char:cmbAbbrStroke">̄</g>ſtall</item>
+               <item>Syr Thomas Halſall</item>
+               <item>Syr Roberte Kyrkham</item>
+               <item>Sir Anthony Wyndſour</item>
+               <item>Syr water Hubbert</item>
+               <item>Syr Iohan Wyllongby</item>
+               <item>Syr Thomas Kytſon</item>
+               <pb facs="tcp:9432:3"/>
+               <item>Sir Thomas Myſſeden</item>
+               <item>Sir Thom<g ref="char:cmbAbbrStroke">̄</g>s Fouleſhurſt</item>
+               <item>Sir Henry Delues</item>
+               <item>Sir Peter Warburton</item>
+               <item>Sir Rycharde Bulkelley</item>
+               <item>Sir Thomas Lakyng</item>
+               <item>Sir Water Smythe</item>
+               <item>Sir He<g ref="char:cmbAbbrStroke">̄</g>ry Eueryngham</item>
+               <item>Sir Willyam Vnedall</item>
+               <item>Sir Tho. Maſſyngberd</item>
+               <item>Sir Willyam Sandon</item>
+               <item>Sir Iames Baſkeruyll</item>
+               <item>Sir Edmonde Trafford</item>
+               <item>Sir Arthur Eyre</item>
+               <item>Sir Henry Sutton</item>
+               <item>Sir Iohan Nortes</item>
+               <item>Sir Willyam Malorie</item>
+               <item>Sir Iohan Harcourt</item>
+               <item>Sir Iohan Tyrell</item>
+               <item>Sir Willyam Browne</item>
+               <item>Sir Nycholas Sturley</item>
+               <item>Sir Randolfe Maneri<g ref="char:cmbAbbrStroke">̄</g>g.</item>
+            </list>
+            <p>¶ Alſo the ſonday after whytſonday beyng trynyte ſonday &amp; the .viij. daye of Iune / was made at Grene<g ref="char:EOLhyphen"/>wyche theſe knyghtes folowynge.</p>
+            <list>
+               <item>Sir Chriſtofer Corwen</item>
+               <item>Sir Geffray Mydelton</item>
+               <item>Sir Hugh Treuyneon</item>
+               <item>Sir George Weſt</item>
+               <item>Sir Clement Herleſton</item>
+               <item>Sir Humfrey Feryes</item>
+               <item>Syr Iohan Dawne</item>
+               <item>Sir Richarde Haughton</item>
+               <item>Sir Thomas Langton</item>
+               <item>Sir Edwarde Bowton</item>
+               <item>Sir Henry Capell.</item>
+            </list>
+            <p>¶ Alſo all the pauementes of the cyte from Charyn croſſe to y<hi rend="sup">e</hi> towre was ouer couerde and caſt with gra<g ref="char:EOLhyphen"/>uell. And the ſame ſaturday beyng whytſon euen the mayre with all the aldermen &amp; the craftes of the cyte prepared aray in a good order to ſtande &amp; receyue her / and with rayles for euery craft to ſtande &amp; leane from preaſe of people. The mayre mette the quenes grace at her comyng forthe of y<hi rend="sup">e</hi> towre / and all his bretherne and aldermen ſtandyng in chepe. And vpon the ſame ſaturday the quene came forth from y<hi rend="sup">e</hi> towre towarde Weſtmynſter in goodly aray / as here after foloweth.
+<pb facs="tcp:9432:4"/>Si<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e paſſed the ſtretes firſt with certayne ſtrau<g ref="char:cmbAbbrStroke">̄</g>gers / their horſes trapped w<hi rend="sup">t</hi> blewe ſylke / &amp; them ſelues in blewe veluet with white fethers acompanyed two &amp; two. Lyke wiſe ſquiers / knightꝭ / barons &amp; baronettꝭ / knightes of y<hi rend="sup">e</hi> barh clothed in vyolet garme<g ref="char:cmbAbbrStroke">̄</g>tes / edged with armyns lyke iuges. Than folowyng y<hi rend="sup">e</hi> iuges of the lawe &amp; abbottes. All theſe eſtatꝭ were to y<hi rend="sup">e</hi> nombre of .CC. cople w<hi rend="sup">t</hi> more / two &amp; two accompanyed. And than folowed byſſhops two &amp; two: &amp; tharchbyſſhops of yorke &amp; Ca<g ref="char:cmbAbbrStroke">̄</g>terbury / y<hi rend="sup">e</hi> ambaſſaders of Frau<g ref="char:cmbAbbrStroke">̄</g>ce &amp; Ve<g ref="char:EOLhyphen"/>nyce / the lorde mayre w<hi rend="sup">t</hi> a mace / mayſter garter the kyng of heraudes &amp; the kingꝭ cote armour vpon him with y<hi rend="sup">e</hi> offycers of armes / apoyntyng euery eſtate in their degre. Than folowed two au<g ref="char:cmbAbbrStroke">̄</g>cyent knightꝭ with olde faſſion hattes poudred on their heedes di<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gyſed / who dyd repreſent y<hi rend="sup">e</hi> duke of Norma<g ref="char:cmbAbbrStroke">̄</g>dy &amp; of Guyen / after an olde cuſtome: the lorde conſtable of Engla<g ref="char:cmbAbbrStroke">̄</g>de for y<hi rend="sup">e</hi> tyme / beyng y<hi rend="sup">e</hi> duke of Suffolke / the lorde Wil<g ref="char:EOLhyphen"/>lyam Hawarde y<hi rend="sup">e</hi> deputie for y<hi rend="sup">e</hi> tyme to the lorde mar<g ref="char:EOLhyphen"/>ſhall duke of Norfolke. Than folowed y<hi rend="sup">e</hi> quenes grace in her lytter coſtly &amp; rychly beſene / w<hi rend="sup">t</hi> a ryche canape ouer her / whiche bare y<hi rend="sup">e</hi> lordes of y<hi rend="sup">e</hi> fyue portes: after her folowyng y<hi rend="sup">e</hi> mayſter of her horſe w<hi rend="sup">t</hi> a whyte ſpare palfray ledde in his ha<g ref="char:cmbAbbrStroke">̄</g>de rychly apoynted. Than fo<g ref="char:EOLhyphen"/>lowed her noble ladyes of eſtate rychly clothed in cry<g ref="char:EOLhyphen"/>moſyn poudred w<hi rend="sup">t</hi> armyns / to the no<g ref="char:cmbAbbrStroke">̄</g>bre of .xij. Than the mayſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r of y<hi rend="sup">e</hi> garde with the garde on both ſydes of the ſtretꝭ in good aray / &amp; all the conſtables well be<g ref="char:EOLhyphen"/>ſene in veluet &amp; damaſke cotes with whyte ſtaues in their handes / ſertynge euery man in araye &amp; order in the ſtretes vntyll ſhe came to Weſtmynſter. Than fo<g ref="char:EOLhyphen"/>lowed four ryche charyottes with ladyes of honour:
+<pb facs="tcp:9432:4"/>after them folowed .xxx. ladyes &amp; gentylwomen <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> garniſſhed / and ſo y<hi rend="sup">e</hi> ſeruyng men after the<g ref="char:cmbAbbrStroke">̄</g>. And as ſhe was departed from y<hi rend="sup">e</hi> towre / a meruaylous great ſhot of gonnes was there fyred &amp; ſhot. So this moſte noble co<g ref="char:cmbAbbrStroke">̄</g>pany paſſed tyll her grace came to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anchurch where was a pagent fayre &amp; ſemly / w<hi rend="sup">t</hi> certayne chyl<g ref="char:EOLhyphen"/>dren which ſaluted her grace with great honour and prayſe after a goodly faſſyon: and ſo paſſed forthe to Graſe churche / where was a ryght coſtly pagent of Apollo with the nyne muſes amonge y<hi rend="sup">e</hi> mountayns / ſyttyng on y<hi rend="sup">e</hi> mount of Pernaſus / and euery of them hauynge their inſtrumentes &amp; apparayle acordyng to the diſcryption of poetes / and namely of Virgyll / with many goodly verſes to her great prayſe and ho<g ref="char:EOLhyphen"/>nour. And ſo ſhe paſſed forth through gracyous ſtrete vnto leaden hall / where was buylded a ſumptuous and a coſtly pagent in maner of a caſtell wherin was faſſyoned an heue<g ref="char:cmbAbbrStroke">̄</g>ly roufe / and vnder it vpon a grene was a roote or a ſtocke / wherout ſpro<g ref="char:cmbAbbrStroke">̄</g>ge a multytude of whyte roſes &amp; reed curyouſly wrought / ſo from the heuenly roufe diſcended a whyte faucon / and lyghted vpon y<hi rend="sup">e</hi> ſaid ſtocke &amp; roote / and incontynent diſcended an angell w<hi rend="sup">t</hi> goodly armony / hauynge a cloſe crowne bytwene his ha<g ref="char:cmbAbbrStroke">̄</g>des / &amp; ſet it on the faucons heed: &amp; on the ſaid flour ſate ſaynt Anne in y<hi rend="sup">e</hi> hyeſt place / on that one ſyde her progeny w<hi rend="sup">t</hi> ſcripture / that is to wete / the thre Marys w<hi rend="sup">t</hi> their iſſue / y<hi rend="sup">t</hi> is to vnderſtande: Mary the mother of Chriſt / Mary Solome y<hi rend="sup">e</hi> mother of ze<g ref="char:EOLhyphen"/>bedee / with the two chyldren of the<g ref="char:cmbAbbrStroke">̄</g> / alſo Mary Cleo<g ref="char:EOLhyphen"/>phe with her huſbande Alphee / with their four chyl<g ref="char:EOLhyphen"/>dren on y<hi rend="sup">e</hi> otherſyde / with other poetycall verſes ſayd and ſonge / w<hi rend="sup">t</hi> a balade in engliſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he to her great prayſe
+<pb facs="tcp:9432:5"/>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to al her progeny and. And to the paſſed <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from thence through cornehyll / and at y<hi rend="sup">e</hi> condyt was a ſumptuous pagent of the thre graces: &amp; at the comynge of the quenes grace a poete declared the na<g ref="char:EOLhyphen"/>ture of all thoſe thre ladyes / &amp; gaue hye prayſes vnto the quene. And after his preamble fynyſſhed / euery lady pertyculer ſpake great honour and hye prayſe of the quenes grace: And ſo ſhe paſſed forth with all her nobles tyll ſhe came in chepe / and at the great condyt was made a coſtly fou<g ref="char:cmbAbbrStroke">̄</g>tayne / wherout ranne whyte wyne / claret / &amp; reed great plenty all that after noone: and ther was great melody w<hi rend="sup">t</hi> ſpeches. And ſo paſſed forthe through chepe to the ſtandarde / whiche was coſtly &amp; ſumptuouſly garniſſhed wich golde &amp; aſure / with armes &amp; ſtories / wher was great armony and melody: and ſo paſſed ſhe forth by the croſſe in chepe / whiche was newe garniſſhed / and ſo through chepe towarde the leſſer condyt. And in the mydwaye by<g ref="char:EOLhyphen"/>twene / the recorder of London receyued her afore the aldermen / with great reuerence &amp; honour ſalutynge her grace / with a louyng &amp; humble prepoſycion pre<g ref="char:EOLhyphen"/>ſentynge her grace with a ryche and coſtly purſe of golde / and in it a thouſande marke in golde coyne / gy<g ref="char:EOLhyphen"/>uen vnto her as a free gyfte of honour: to whom ſhe gaue great thankes bothe with herte and mynde. And ſo her grace paſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d a lytell further / and at the leſſer condyt was a coſtly and a ryche pagent / where as was goodly armonye of muſyke and other myn<g ref="char:EOLhyphen"/>ſtrels / with ſyngyng: And within that pagent was fyue coſtly ſeates / wherin was ſet theſe fyue perſo<g ref="char:EOLhyphen"/>nages / that is to were Iuno / Pallas / Mercury / and Venus / and Parys hauyng a ball of golde preſe<g ref="char:cmbAbbrStroke">̄</g>tyng
+<pb facs="tcp:9432:5"/>it to her grace with certayne verſes of great honour / and chyldren ſyngyng a balade to her grace / &amp; prayſe to all her ladyes / and ſo paſſed forth to Poules gate / where was a proper &amp; a ſumptuous pagent / y<hi rend="sup">t</hi> is to wete / ther ſat .iij. fayre ladyes virgyns coſtly arayde with a fayre rou<g ref="char:cmbAbbrStroke">̄</g>de trone ouer their heedes / where a<g ref="char:EOLhyphen"/>boute was written this. Regina Anna proſpere pro<g ref="char:EOLhyphen"/>cede et regna / that is in englyſſhe. Quene Anne pro<g ref="char:EOLhyphen"/>ſper procede and reygne. The lady that ſate in the myddes hauynge a table of golde in her hande wryt<g ref="char:EOLhyphen"/>ten with letters of aſure. Veni amica coronaberis. Come my loue thou ſhalbe crowned. And two au<g ref="char:cmbAbbrStroke">̄</g>gels hauyng a cloſe crowne of golde bytwene their ha<g ref="char:cmbAbbrStroke">̄</g>des. And the lady on y<hi rend="sup">e</hi> ryght hande had a table of ſyluer / wherin was writte<g ref="char:cmbAbbrStroke">̄</g>. Dn<g ref="char:cmbAbbrStroke">̄</g>e dirige greſſos meos. Lorde god dyrecte my wayes. The other on the lyfte hande had in another table of ſyluer written this. Co<g ref="char:cmbAbbrStroke">̄</g>fide in dn<g ref="char:cmbAbbrStroke">̄</g>o. Truſt in god. And vnder theyr fete was a longe rol wherin was written this. Regina Anna nouu<g ref="char:cmbAbbrStroke">̄</g> re<g ref="char:EOLhyphen"/>gis de ſanguine natu<g ref="char:cmbAbbrStroke">̄</g> / cu<g ref="char:cmbAbbrStroke">̄</g> paries populis aurea ſecla tuis. Quene Anne whan y<hi rend="sup">u</hi> ſhalte beare a newe ſone of y<hi rend="sup">e</hi> kynges bloode / there ſhalbe a golden worlde vnto thy people. And ſo y<hi rend="sup">e</hi> ladyes caſte ouer her heed a mul<g ref="char:EOLunhyphen"/>tytude of wafers with roſe leaues / &amp; about y<hi rend="sup">e</hi> wafers were written with letters of gold / this poſey. And ſo her grace paſſed forth into Poules chyrchyarde / &amp; at the eeſt ende of y<hi rend="sup">e</hi> chyrch agaynſt y<hi rend="sup">e</hi> ſchole was a great ſcaffolde / wheron ſtode y<hi rend="sup">e</hi> nombre of two hu<g ref="char:cmbAbbrStroke">̄</g>dred chyl<g ref="char:EOLhyphen"/>dren well beſene / who receyued her w<hi rend="sup">t</hi> poetes verſes to her noble honour / wha<g ref="char:cmbAbbrStroke">̄</g> they had fyniſſhed ſhe ſayd Amen w<hi rend="sup">t</hi> ioyful ſmylyng countenaunce / and ſo paſſed forth thrugh the longe chyrchyarde / &amp; ſo to Ludgate
+<pb facs="tcp:9432:6"/>whiche was coſtly &amp; ſumptuouſly garnyſſhed with golde / colours / and aſure / with ſwete armony of bal<g ref="char:EOLhyphen"/>lades to her greate prayſe &amp; honour / w<hi rend="sup">t</hi> dyuerſe ſwete inſtrumentes. And thus her grace came thorowe the cyte with great honour and royaltye / and paſſed tho<g ref="char:EOLhyphen"/>rowe Fleteſtrete tyll ſhe came to y<hi rend="sup">e</hi> ſtandarde &amp; co<g ref="char:cmbAbbrStroke">̄</g>dyth where was made a fayre toure with foure tourettes with fanes / there within great plenty of ſwete i<g ref="char:cmbAbbrStroke">̄</g>ſtru<g ref="char:EOLhyphen"/>mentes w<hi rend="sup">t</hi> chyldren ſyngyng / the ſtandarde of maſon warke coſtly made with ymages and aungels / coſtly gylted with golde and aſure / with other colours / and dyuerſe ſortes of armes coſtly ſet out ſhall there con<g ref="char:EOLhyphen"/>tynue and remayne / and within the ſtandarde a vyce with a chyme. Alſo there ranne out of certayne ſmall pypes great plenty of wyne all that afternoone. And ſo her grace paſſed through the cyte to temple barre / and ſo to Charyng croſſe / and ſo thorowe Weſtmyn<g ref="char:EOLhyphen"/>ſter into weſtmynſter hall / where that was well and rychly hanged with cloth of Arras / with a meruay<g ref="char:EOLhyphen"/>lous ryche cupborde of plate / and there was a voyde of ſpyce places &amp; wyne. And y<hi rend="sup">e</hi> done the quenes grace withdrewe her into y<hi rend="sup">e</hi> whyte hall for that nyght / and ſo to Yorke place by water. ¶ The ſondaye in y<hi rend="sup">e</hi> mor<g ref="char:EOLhyphen"/>nynge at .viij. of the clocke y<hi rend="sup">e</hi> quenes grace w<hi rend="sup">t</hi> noble la<g ref="char:EOLhyphen"/>dyes in theyr robes of eſtate / w<hi rend="sup">t</hi> al y<hi rend="sup">e</hi> nobles aparayled in parlyament robes / as dukes / erles / archbyſſhops and byſſhops / w<hi rend="sup">t</hi> barons / &amp; the barons of y<hi rend="sup">e</hi> fyue portꝭ with the mayre of y<hi rend="sup">e</hi> cite / the aldermen in theyr robes as ma<g ref="char:cmbAbbrStroke">̄</g>tels of ſcarlet. The barons of y<hi rend="sup">e</hi> fyue portꝭ bare a ryche canopy of cloth of golde / with ſtaues of golde &amp; four belles of ſyluer &amp; gylt. The abbot of weſtmyn<g ref="char:EOLhyphen"/>ſter w<hi rend="sup">t</hi> his rygals came in to y<hi rend="sup">e</hi> hall in po<g ref="char:cmbAbbrStroke">̄</g>tificalibus w<hi rend="sup">t</hi>
+               <pb facs="tcp:9432:6"/>his monkes in theyr beſt copes / the kynges chapel in theyr beſt copes / with y<hi rend="sup">e</hi> byſſhops rychely aourned in pontificalibus / &amp; the ray cloth blewe ſpredde from the hygh deſſes of y<hi rend="sup">e</hi> kynges benche vnto the hygh aulter of weſtmynſter. And ſo euery man procedynge to the mynſter in y<hi rend="sup">e</hi> beſt order / euery man after theyr degree apoynted to theyr order &amp; offyce as aperteyneth came vnto y<hi rend="sup">e</hi> place apoynted / where her grace receyued her crowne / w<hi rend="sup">t</hi> all y<hi rend="sup">e</hi> ſerymonyes therof as ther vnto belon<g ref="char:EOLunhyphen"/>geth. And ſo al y<hi rend="sup">e</hi> ſerimonyes done w<hi rend="sup">t</hi> y<hi rend="sup">e</hi> ſole<g ref="char:cmbAbbrStroke">̄</g>pne maſſe / they departed home in their beſt orders euery man to the hal of weſtmynſter / where y<hi rend="sup">e</hi> quenes grace with<g ref="char:EOLhyphen"/>drew her for a tyme in to her cha<g ref="char:cmbAbbrStroke">̄</g>bre apoynted / &amp; ſo af<g ref="char:EOLhyphen"/>ter a certayne ſpace her grace came in to y<hi rend="sup">e</hi> hall. Than ye ſhulde haue ſene euery noble man doyng their ſer<g ref="char:EOLhyphen"/>uyce to the<g ref="char:cmbAbbrStroke">̄</g> apoynted in y<hi rend="sup">e</hi> beſt maner y<hi rend="sup">t</hi> hath ben ſene in any ſuche ſerimony. The quenes grace waſſhed / y<hi rend="sup">e</hi> archbiſſhop of Ca<g ref="char:cmbAbbrStroke">̄</g>terbury ſayd grace. Than y<hi rend="sup">e</hi> nobles were ſet to the table / therw<hi rend="sup">t</hi> came y<hi rend="sup">e</hi> quenes ſeruice w<hi rend="sup">t</hi> y<hi rend="sup">e</hi> ſeruyce of tharch byſſhop / a certayne ſpace thre me<g ref="char:cmbAbbrStroke">̄</g> with the quenes grace ſeruyce. Before y<hi rend="sup">e</hi> ſaid ſeruyte came y<hi rend="sup">e</hi> duke of Suffolke high co<g ref="char:cmbAbbrStroke">̄</g>ſtable y<hi rend="sup">e</hi> day and ſte<g ref="char:EOLhyphen"/>warde of y<hi rend="sup">e</hi> feeſt on horſbacke / &amp; meruaylouſly trap<g ref="char:EOLhyphen"/>ped in aparell w<hi rend="sup">t</hi> rycheſſe. Than w<hi rend="sup">t</hi> hym came y<hi rend="sup">e</hi> lorde Wyllyam Hawarde / as depute to y<hi rend="sup">e</hi> duke of Norfolke in y<hi rend="sup">e</hi> rome of y<hi rend="sup">e</hi> marſhal of Engla<g ref="char:cmbAbbrStroke">̄</g>de on horſbacke. The erle of eſſex caruer. Therle of Suſſex ſewer. Therle of Darby cupberer. Therle of Aru<g ref="char:cmbAbbrStroke">̄</g>dell butteller. The viſconte Lyſle panter. The lorde Bray awmoner. Theſe noble men dyd theyr ſeruyce in ſuche humble ſorte &amp; faſſyon that it was wo<g ref="char:cmbAbbrStroke">̄</g>der to ſe the payne and dylygence of them / beynge ſuche noble perſonages.
+<pb facs="tcp:9432:7"/>The ſeruyce borne by knyghtes / whiche were to me to longe to tell in order / the goodly ſeruyce of kyndes of meate with their deuyſes from the hyeſt vnto the loweſt / there haue not ben ſene more goodlyer nor ho<g ref="char:EOLhyphen"/>norablyer done in no mannes dayes.</p>
+            <p>¶ There was foure tables in y<hi rend="sup">e</hi> great hall alonge the ſayde hall.</p>
+            <list>
+               <item>The noble women one table / ſyttyng alon y<hi rend="sup">e</hi> one ſyde.</item>
+               <item>The noble men an other table.</item>
+               <item>The mayre of Lo<g ref="char:cmbAbbrStroke">̄</g>don an other table w<hi rend="sup">t</hi> his bretherne.</item>
+               <item>The barons of the portes with y<hi rend="sup">e</hi> mayſter of the chau<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>cery the fourth table.</item>
+            </list>
+            <p>And thus all thynges nobly and tryumphantly done at her coronacyon / her grace retourned to whyte hall with great ioy and ſolempnyte / and the morowe was great iuſtes at y<hi rend="sup">e</hi> tylte / done by .xviij. lordes &amp; knygh<g ref="char:EOLhyphen"/>tes / where was broken many ſpeares valyauntly: but ſome of their horſes wolde nat come at their plea<g ref="char:EOLhyphen"/>ſure nere vnto the tylte / whiche was diſpleaſure to ſome that there dyd ronne.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Thus endeth this tryumphe: Imprinted at London in Fleteſtrete by Wynkynde Worde / for Iohan Goughe.</p>
+            <p>Cum priuilegio.</p>
+            <pb facs="tcp:9432:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
